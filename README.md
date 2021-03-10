@@ -1,1 +1,3 @@
-# web-dev_1.0-_setup-workspace
+# Instructions
+
+#### 1. Follow the automated prompts to install all extensions. 
