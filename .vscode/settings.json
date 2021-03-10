@@ -1,8 +1,4 @@
 {
     "workbench.colorTheme": "Default Light+",
-    
-    // Add the IDs of extensions you want installed
-	"extensions": {
-		"auchenberg.vscode-browser-preview"
-	}
+
 }
