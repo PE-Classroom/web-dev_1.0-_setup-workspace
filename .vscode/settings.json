@@ -1,4 +1,9 @@
 {
     "workbench.colorTheme": "Default Light+",
+    
+    "settings": {
+		"browser-preview.startUrl": "http://127.0.0.1:5500/",
+		"liveServer.settings.CustomBrowser": "chrome"
+	}
 
 }
