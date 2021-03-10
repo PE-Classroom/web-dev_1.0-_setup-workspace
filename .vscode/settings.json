@@ -1,6 +1,6 @@
 {
 	"workbench.colorTheme": "Default Light+",
-	"browser-preview.startUrl": "http://127.0.0.1:5500/",
+	"browser-preview.startUrl": "https://vscode-auth.github.com/authorize/?callbackUri=vscode://vscode.github-authentication/did-authenticate%253FwindowId%253D4&scope=user:email&state=cfdeff62-e410-4340-b0d8-7034556abb31&responseType=code&authServer=https://github.com",
 	"liveServer.settings.CustomBrowser": "chrome",
 	"liveServer.settings.ChromeDebuggingAttachment": true
 }
