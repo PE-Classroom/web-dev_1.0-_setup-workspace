@@ -2,5 +2,6 @@
 	"workbench.colorTheme": "Default Light+",
 	"browser-preview.startUrl": "http://127.0.0.1:5500/index.html",
 	"liveServer.settings.CustomBrowser": "chrome",
-	"liveServer.settings.ChromeDebuggingAttachment": true
+	"liveServer.settings.ChromeDebuggingAttachment": true,
+	"files.autoSave": "afterDelay"
 }
