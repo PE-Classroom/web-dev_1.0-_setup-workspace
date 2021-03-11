@@ -5,5 +5,5 @@
 	// List of extensions which should be recommended for users of this workspace.
 	"recommendations": [ "msjsdiag.debugger-for-chrome", "ritwickdey.LiveServer", "auchenberg.vscode-browser-preview", "vsls-contrib.codetour"],
 	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
-	"unwantedRecommendations": [ "github.vscode-pull-request-github", "eamodio.gitlens"]
+	"unwantedRecommendations": [ "github.vscode-pull-request-github", "eamodio.gitlens", "vscodevim.vim", "davidanson.vscode-markdownlint"]
 }
